@@ -9,12 +9,17 @@
 	"dependencies": {
 		"react": "16.0.0",
 		"react-native": "0.50.3",
+		"react-native-modal": "^4.1.1",
 		"react-native-sound": "^0.10.4",
 		"react-native-vector-icons": "^4.4.2"
 	},
 	"devDependencies": {
+		"babel-eslint": "^8.0.2",
 		"babel-jest": "21.2.0",
 		"babel-preset-react-native": "4.0.0",
+		"eslint": "^4.11.0",
+		"eslint-plugin-react": "^7.4.0",
+		"eslint-plugin-react-native": "^3.1.0",
 		"jest": "21.2.1",
 		"react-test-renderer": "16.0.0"
 	},
