@@ -1,0 +1,21 @@
+{
+    "parser": "babel-eslint",
+    "env": {
+        "browser": true
+    },
+    "plugins": [
+        "react",
+        "react-native",
+    ],
+    "extends": [
+        "eslint:recommended",
+        "plugin:react/recommended"
+    ],
+    "rules": {
+        // overrides
+        "max-len": ["error", 100],
+        "keyword-spacing": ["error", { "before": true, "after": true }],
+        "quotes": ["error", "single"],
+        "no-console": "warn"
+    }
+}
