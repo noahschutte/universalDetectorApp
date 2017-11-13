@@ -1350,6 +1350,7 @@
 					"-ObjC",
 					"-lc++",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.buddyghee.UniversalDetector;
 				PRODUCT_NAME = UniversalDetector;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1373,6 +1374,7 @@
 					"-ObjC",
 					"-lc++",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.buddyghee.UniversalDetector;
 				PRODUCT_NAME = UniversalDetector;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
